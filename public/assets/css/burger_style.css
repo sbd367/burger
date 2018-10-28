@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://images2.alphacoders.com/483/thumb-1920-483951.jpg);
+}
+#burgerForm{
+    position: absolute;
+    top: 28vw;
+    left: 65vw;
+
+    background-color: black;
+    opacity: .95;
+    border-radius: 10px;
+    padding: 50px;
+    width: 500px;
+    color: yellow;
+}
+#showField{
+    margin-top: 5vw;
+}
+#items{
+    margin-top: 15px;
+}
+#addTitle{
+margin-bottom: 20px;
+}
+#burger_name{
+    border-radius: 5px;
+
+}
